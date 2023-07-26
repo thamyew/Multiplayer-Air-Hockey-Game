@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079710524261",
+    "firebase_url": "https://photonmultiplayer-40855-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "photonmultiplayer-40855",
+    "storage_bucket": "photonmultiplayer-40855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079710524261:android:29be90fd93d258d01af78c",
+        "android_client_info": {
+          "package_name": "com.company.RTCGphoton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079710524261-92q17qi42p5t8o4990nml8v7os3bns17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1V0RlqSp8e8KdJeFDHbmTBAeSbGPUTow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079710524261-92q17qi42p5t8o4990nml8v7os3bns17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
