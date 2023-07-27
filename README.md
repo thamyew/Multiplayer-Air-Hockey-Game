@@ -1,7 +1,7 @@
 # Multiplayer-Air-Hockey-Game
 This is an online two-player game based on air hockey inspired by the game we used to play at the arcade. The first player to score 3 times in the opposition goal will win the game. Being a multiplayer game, a player can host a lobby and another player can join that lobby by inputting the lobby ID. The player can view the results of their past games in match history. 
 This game was developed uisng Unity Game Engine. There are 2 Firebase functions used in this game. Firebase Authentication is used for creating and logging into user accounts, while Firebase Real-time Database is used for and recording game data. Photon Unity Networking is used for establishing a networked environment where users can play against each other.
-## The following are some screenshots from the game.
+## The following are some screenshots from the game:
 ### Main Menu
 ![MainMenu](https://github.com/thamyew/Multiplayer-Air-Hockey-Game/assets/103158458/4f613d17-b66a-4ac0-8478-5717adca8bee)
 ### Lobby
